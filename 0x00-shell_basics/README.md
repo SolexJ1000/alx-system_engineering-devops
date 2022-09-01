@@ -1,1 +1,1 @@
-This folder contains scripts of different files
+This folder contains scripts of different files. I will update it later.
