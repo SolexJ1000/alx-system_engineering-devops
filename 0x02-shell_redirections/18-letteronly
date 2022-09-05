@@ -1,2 +1,2 @@
 #!/bin/bash
- grep -v "bin" /etc/passwd
+ grep "[A-Z]" -i /etc/ssh/sshd_config
